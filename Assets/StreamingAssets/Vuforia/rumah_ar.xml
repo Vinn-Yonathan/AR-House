@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="british_marker" size="10.000000 10.000000" />
+    <ImageTarget name="luxury_marker" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
